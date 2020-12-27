@@ -1,0 +1,13 @@
+[package]
+name = "rustfull_plugins"
+version = "0.1.0"
+authors = ["MedAmineFouzai <54685665+MedAmineFouzai@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.6"
+rocket_upload = "0.1.0"
+qrcode = "0.11"
+barcoders = "1.0.2"
